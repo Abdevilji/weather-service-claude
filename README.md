@@ -1,5 +1,5 @@
-# Weather Service with Claude and Cursor
-
+# Weather Service with Claude and Cursor 
+#MCP servers building
 This project provides a weather service that can be accessed through Claude and Cursor's inbuilt chat. It uses the National Weather Service (NWS) API to provide real-time weather alerts and forecasts.
 
 ## Features
